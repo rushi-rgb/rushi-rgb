@@ -11,7 +11,7 @@
 
 I'm passionate about open-source, Cloud, Devops 
 <br>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
+<img align="right" alt="coding" width="350" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 - 📄 **Bachelor of Computer Engineering** at the **Annasaheb Dange College of Engineering and Technology, Sangli,**
 - 💻 Currently Working on AutoBliss 🚗
 - 💻 Interested in Red hat Linux, AWS Cloud, Azure Cloud, Devops
