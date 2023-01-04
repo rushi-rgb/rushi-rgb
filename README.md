@@ -7,18 +7,24 @@
  <a href="mailto:hrgore8@gmail.com">
   <img src="https://img.shields.io/badge/Email-hrgore8@gmail.com.com-red?style=flat-square&logo=gmail&logoColor=white">
  </a>
-</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rushikeshgore08&label=Profile%20views&color=0e75b6&style=flat" alt="rushi-rgb" /> </p>
 <br>
+</p>
 I'm passionate about open-source, Cloud, Devops 
-<br>
+
 <img align="right" alt="coding" width="350" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
+
 - 📄 **Bachelor of Computer Engineering** at the **Annasaheb Dange College of Engineering and Technology, Sangli,**
+
 - 💻 Currently Working on AutoBliss 🚗
+
 - 💻 Interested in Red hat Linux, AWS Cloud, Azure Cloud, Devops
+
 - 📫 How to reach me: [Email](mailto:hrgore8@gmail.com "hrgore8@gmail.com") || [LinkedIn](https://www.linkedin.com/in/rushikesh-gore-754015161/ "Rushikesh-Gore-350b331a1") || 
+
 - 🗺️ Located near Pune, India
+
 - 📝 [CV/Resume](https://drive.google.com/file/d/1FPKy5sVhg0aHO4XTMaHMC0IdCxg1-UUz/view?usp=sharing "CV/Resume")
 
 
