@@ -7,14 +7,12 @@
  <a href="mailto:hrgore8@gmail.com">
   <img src="https://img.shields.io/badge/Email-hrgore8@gmail.com.com-red?style=flat-square&logo=gmail&logoColor=white">
  </a>
-
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rushikeshgore08&label=Profile%20views&color=0e75b6&style=flat" alt="rushi-rgb" /> </p>
 <br>
-</p>
-I'm passionate about open-source, Cloud, Devops 
 
+**I'm passionate about open-source, Cloud, Devops** 
 <img align="right" alt="coding" width="350" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
-
 - 📄 **Bachelor of Computer Engineering** at the **Annasaheb Dange College of Engineering and Technology, Sangli,**
 
 - 💻 Currently Working on AutoBliss 🚗
