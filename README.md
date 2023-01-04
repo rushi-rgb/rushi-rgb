@@ -8,7 +8,10 @@
   <img src="https://img.shields.io/badge/Email-hrgore8@gmail.com.com-red?style=flat-square&logo=gmail&logoColor=white">
  </a>
 </p>
+<img align="right" alt="Coding" width="400" src="https://tenor.com/view/programmer-gif-19019116.gif">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rushikeshgore08&label=Profile%20views&color=0e75b6&style=flat" alt="rushi-rgb" /> </p>
+<br>
 I'm passionate about open-source, Cloud, Devops 
 <br>
 <img align="right" alt="coding" width="350" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
