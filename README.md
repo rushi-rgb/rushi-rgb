@@ -1,7 +1,7 @@
 # Hello, I’m 👋 [Rushikesh Gore](https://github.com/rushi-rgb)
 <!-- https://shields.io/ -->
 <p align="center"><br/>
- <a href="https://www.linkedin.com/in/rushikesh-gore-754015161/">
+ <a href="https://www.linkedin.com/in/rushikesh-l-gore-754015161/">
   <img src="https://img.shields.io/badge/linkedin-Rushikesh%20Gore-blue?style=flat-square&logo=linkedin">
  </a>
  <a href="mailto:hrgore8@gmail.com">
@@ -14,7 +14,7 @@
 
 - 💻 Currently learning KUCL
 
-- 📫 How to reach me: [Email](mailto:hrgore8@gmail.com "hrgore8@gmail.com") || [LinkedIn](https://www.linkedin.com/in/rushikesh-gore-754015161/ "Rushikesh-Gore-350b331a1") || 
+- 📫 How to reach me: [Email](mailto:hrgore8@gmail.com "hrgore8@gmail.com") || [LinkedIn](https://www.linkedin.com/in/rushikesh-l-gore-754015161/") || 
 
 - 🗺️ Located near Aurangabad ,Mahrashtra India
 
