@@ -18,7 +18,7 @@
 
 - 🗺️ Located near Aurangabad ,Mahrashtra India
 
-- 📝 [CV/Resume](https://drive.google.com/file/d/1FPKy5sVhg0aHO4XTMaHMC0IdCxg1-UUz/view?usp=sharing "CV/Resume")
+- 📝 [CV/Resume](https://drive.google.com/file/d/1bCDmuxcbMbIEsms335f0xCyydghunKoa/view?usp=sharing")
 
 
 <h3 align="left">Languages and Tools:</h3>
