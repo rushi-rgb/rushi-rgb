@@ -10,6 +10,7 @@
 </p>
 
 ---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavpore08&label=Profile%20views&color=0e75b6&style=flat" alt="rushi-rgb" /> </p>
 
 **I'm passionate about Open-Source, Cloud, and DevOps**  
 
