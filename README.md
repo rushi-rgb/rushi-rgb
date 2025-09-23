@@ -55,5 +55,4 @@
 
 ### 📝 Total Commits
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rushi-rgb&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&t=1" /></p>
 ![Total Commits](https://your-vercel-app.vercel.app/api?username=rushi-rgb&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
