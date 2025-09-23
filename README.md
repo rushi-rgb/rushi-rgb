@@ -45,8 +45,8 @@
 
 ### 📊 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushi-rgb&layout=compact&langs_count=8&card_width=320&theme=radical&hide_border=true&count_private=true" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushi-rgb&layout=compact&langs_count=8&card_width=320&theme=radical&hide_border=true&count_private=true&t=1" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rushi-rgb&show_icons=true&theme=radical&hide_border=true&count_private=true" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rushi-rgb&show_icons=true&theme=radical&hide_border=true&count_private=true&t=1" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=rushi-rgb&theme=radical&hide_border=true" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=rushi-rgb&theme=radical&hide_border=true&t=1" /></p>
